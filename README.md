@@ -4,7 +4,7 @@ Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con 
 
 - **Aprendiz:** Melany Tesillo
 - **Curso y mecánica:** Matemáticas - Racha diaria
-- **Aplicación publicada:** (complete con la URL de Render)
+- **Aplicación publicada:** https://plataforma-ludica-o9wz.onrender.com
 
 ## Ejecutar en su equipo
 
