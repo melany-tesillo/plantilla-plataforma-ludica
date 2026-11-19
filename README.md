@@ -2,8 +2,8 @@
 
 Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con FastAPI.
 
-- **Aprendiz:** Emily Monterrosa
-- **Curso y mecánica:** Geografía de Colombia (mecánica: misiones e insignias)
+- **Aprendiz:** Melany Tesillo
+- **Curso y mecánica:** Matemáticas (mecánica: racha diaria)
 - **Aplicación publicada:**
 
 ## Ejecutar en su equipo
