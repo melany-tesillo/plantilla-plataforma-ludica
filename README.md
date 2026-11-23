@@ -43,7 +43,7 @@ ruff check .
 | `tests/` | Pruebas automatizadas; `aceptacion/` está reservado para pruebas de aceptación |
 | `specs/` | Especificación, plan técnico, tareas y flujo de usuario |
 | `specs/adr/` | Plantilla para registrar decisiones de arquitectura |
-| `prompts/` | Instrucciones para guardar prompts; actualmente solo contiene su README |
+| `prompts/` | Instrucciones, plantilla y ejemplos de prompts del proyecto |
 | `entregas/` | Plantilla para las respuestas semanales; `entregar.py` genera el PDF de una semana |
 | `.github/workflows/ci.yml` | Ejecuta Ruff, las pruebas y una comprobación de inicio en GitHub Actions |
 | `AGENTS.md` | Contexto y convenciones del proyecto para los agentes de IA |
